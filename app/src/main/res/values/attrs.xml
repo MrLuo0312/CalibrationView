@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CalibrationView">
+        <attr name="gapWidth" format="dimension" />
+        <attr name="shortHeight" format="dimension" />
+        <attr name="longHeight" format="dimension" />
+        <attr name="strokeColor" format="color" />
+        <attr name="startInt" format="integer" />
+        <attr name="endInt" format="integer" />
+    </declare-styleable>
+</resources>
